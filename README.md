@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/ganesh036m2/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/ganesh036m2/leetcode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/ganesh036m2/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ganesh036m2/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Divide and Conquer
 |  |
 | ------- |
