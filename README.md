@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ganesh036m2/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ganesh036m2/leetcode/tree/master/0013-roman-to-integer) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/ganesh036m2/leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ganesh036m2/leetcode/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/ganesh036m2/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/ganesh036m2/leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
