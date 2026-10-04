@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ganesh036m2/leetcode/tree/master/0001-two-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ganesh036m2/leetcode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/ganesh036m2/leetcode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/ganesh036m2/leetcode/tree/master/0836-rectangle-overlap) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganesh036m2/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3870-count-commas-in-range](https://github.com/ganesh036m2/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ganesh036m2/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ganesh036m2/leetcode/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
