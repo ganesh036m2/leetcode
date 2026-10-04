@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ganesh036m2/leetcode/tree/master/0001-two-sum) |
+| [1260-shift-2d-grid](https://github.com/ganesh036m2/leetcode/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -75,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ganesh036m2/leetcode/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ganesh036m2/leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
