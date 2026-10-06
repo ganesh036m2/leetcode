@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/ganesh036m2/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ganesh036m2/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganesh036m2/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3870-count-commas-in-range](https://github.com/ganesh036m2/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ganesh036m2/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Geometry
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganesh036m2/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Primality Test
 |  |
 | ------- |
@@ -122,8 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
