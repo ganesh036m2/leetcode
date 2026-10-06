@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ganesh036m2/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ganesh036m2/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ganesh036m2/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ganesh036m2/leetcode/tree/master/0013-roman-to-integer) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ganesh036m2/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganesh036m2/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3870-count-commas-in-range](https://github.com/ganesh036m2/leetcode/tree/master/3870-count-commas-in-range) |
@@ -50,20 +53,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0866-prime-palindrome](https://github.com/ganesh036m2/leetcode/tree/master/0866-prime-palindrome) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ganesh036m2/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganesh036m2/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Primality Test
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/ganesh036m2/leetcode/tree/master/0866-prime-palindrome) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganesh036m2/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganesh036m2/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganesh036m2/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## String
 |  |
@@ -132,15 +139,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ganesh036m2/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Least Common Multiple
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ganesh036m2/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
