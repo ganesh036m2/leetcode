@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ganesh036m2/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1706-where-will-the-ball-fall](https://github.com/ganesh036m2/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1720-decode-xored-array](https://github.com/ganesh036m2/leetcode/tree/master/1720-decode-xored-array) |
+| [1734-decode-xored-permutation](https://github.com/ganesh036m2/leetcode/tree/master/1734-decode-xored-permutation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganesh036m2/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ganesh036m2/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ganesh036m2/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ganesh036m2/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/ganesh036m2/leetcode/tree/master/1720-decode-xored-array) |
+| [1734-decode-xored-permutation](https://github.com/ganesh036m2/leetcode/tree/master/1734-decode-xored-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganesh036m2/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ganesh036m2/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2317-maximum-xor-after-operations](https://github.com/ganesh036m2/leetcode/tree/master/2317-maximum-xor-after-operations) |
