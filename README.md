@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ganesh036m2/leetcode/tree/master/0054-spiral-matrix) |
 | [0137-single-number-ii](https://github.com/ganesh036m2/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ganesh036m2/leetcode/tree/master/0260-single-number-iii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganesh036m2/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0735-asteroid-collision](https://github.com/ganesh036m2/leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/ganesh036m2/leetcode/tree/master/1260-shift-2d-grid) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ganesh036m2/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ganesh036m2/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ganesh036m2/leetcode/tree/master/0013-roman-to-integer) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganesh036m2/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/ganesh036m2/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/ganesh036m2/leetcode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/ganesh036m2/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganesh036m2/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ganesh036m2/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ganesh036m2/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1720-decode-xored-array](https://github.com/ganesh036m2/leetcode/tree/master/1720-decode-xored-array) |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/ganesh036m2/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganesh036m2/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
