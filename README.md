@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/ganesh036m2/leetcode/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/ganesh036m2/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/ganesh036m2/leetcode/tree/master/0836-rectangle-overlap) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganesh036m2/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3870-count-commas-in-range](https://github.com/ganesh036m2/leetcode/tree/master/3870-count-commas-in-range) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ganesh036m2/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ganesh036m2/leetcode/tree/master/0013-roman-to-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/ganesh036m2/leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Recursion
 |  |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ganesh036m2/leetcode/tree/master/0190-reverse-bits) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
