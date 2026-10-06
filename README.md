@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ganesh036m2/leetcode/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/ganesh036m2/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganesh036m2/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ganesh036m2/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ganesh036m2/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/ganesh036m2/leetcode/tree/master/0866-prime-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganesh036m2/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ganesh036m2/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ganesh036m2/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganesh036m2/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ganesh036m2/leetcode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/ganesh036m2/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ganesh036m2/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganesh036m2/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ganesh036m2/leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganesh036m2/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganesh036m2/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
