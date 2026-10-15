@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-maximum-xor-after-operations](https://github.com/ganesh036m2/leetcode/tree/master/2317-maximum-xor-after-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ganesh036m2/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganesh036m2/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ganesh036m2/leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ganesh036m2/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganesh036m2/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ganesh036m2/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganesh036m2/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ganesh036m2/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Math
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganesh036m2/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganesh036m2/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganesh036m2/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
