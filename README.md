@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganesh036m2/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ganesh036m2/leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ganesh036m2/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ganesh036m2/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganesh036m2/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ganesh036m2/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ganesh036m2/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Math
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganesh036m2/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sorting
+|  |
+| ------- |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ganesh036m2/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 <!---LeetCode Topics End-->
