@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ganesh036m2/leetcode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/ganesh036m2/leetcode/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/ganesh036m2/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0593-valid-square](https://github.com/ganesh036m2/leetcode/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/ganesh036m2/leetcode/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/ganesh036m2/leetcode/tree/master/0866-prime-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ganesh036m2/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/ganesh036m2/leetcode/tree/master/0223-rectangle-area) |
+| [0593-valid-square](https://github.com/ganesh036m2/leetcode/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/ganesh036m2/leetcode/tree/master/0836-rectangle-overlap) |
 ## Number Theory
 |  |
