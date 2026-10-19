@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ganesh036m2/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ganesh036m2/leetcode/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/ganesh036m2/leetcode/tree/master/0054-spiral-matrix) |
 | [0137-single-number-ii](https://github.com/ganesh036m2/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ganesh036m2/leetcode/tree/master/0260-single-number-iii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ganesh036m2/leetcode/tree/master/0011-container-with-most-water) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ganesh036m2/leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ganesh036m2/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Backtracking
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ganesh036m2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ganesh036m2/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
