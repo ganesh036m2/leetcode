@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ganesh036m2/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganesh036m2/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ganesh036m2/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ganesh036m2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ganesh036m2/leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2317-maximum-xor-after-operations](https://github.com/ganesh036m2/leetcode/tree/master/2317-maximum-xor-after-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ganesh036m2/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -222,5 +223,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ganesh036m2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ganesh036m2/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ganesh036m2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
