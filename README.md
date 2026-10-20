@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ganesh036m2/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ganesh036m2/leetcode/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/ganesh036m2/leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/ganesh036m2/leetcode/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/ganesh036m2/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ganesh036m2/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/ganesh036m2/leetcode/tree/master/0274-h-index) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ganesh036m2/leetcode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/ganesh036m2/leetcode/tree/master/0274-h-index) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ganesh036m2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ganesh036m2/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -241,8 +243,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ganesh036m2/leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/ganesh036m2/leetcode/tree/master/0075-sort-colors) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ganesh036m2/leetcode/tree/master/0274-h-index) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ganesh036m2/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ganesh036m2/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
