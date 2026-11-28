@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/ganesh036m2/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ganesh036m2/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ganesh036m2/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ganesh036m2/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ganesh036m2/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ganesh036m2/leetcode/tree/master/0011-container-with-most-water) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ganesh036m2/leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ganesh036m2/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ganesh036m2/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ganesh036m2/leetcode/tree/master/0274-h-index) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ganesh036m2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ganesh036m2/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ganesh036m2/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ganesh036m2/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ganesh036m2/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
